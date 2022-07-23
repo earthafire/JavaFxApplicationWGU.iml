@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$JAVA_FX$" />
+      <root url="file://$JAVA_FX$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$JAVA_FX$" />
+      <root url="file://$JAVA_FX$" />
+    </SOURCES>
+    <jarDirectory url="file://$JAVA_FX$" recursive="false" />
+    <jarDirectory url="file://$JAVA_FX$" recursive="false" />
+    <jarDirectory url="file://$JAVA_FX$" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$JAVA_FX$" recursive="false" type="SOURCES" />
+  </library>
+</component>
